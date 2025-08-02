@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <footer className="w-full bg-pink-100 text-gray-700 text-center py-6 mt-12">
+    <footer className="w-full bg-pink-100 text-gray-700 text-center py-6 px-8 mt-12">
       <p className="text-lg font-light">
         Feito com muito amor 💖 por alguém que te ama mais a cada dia.
       </p>
